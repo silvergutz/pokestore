@@ -1,8 +1,11 @@
 <h1 align="center">
-  PokéStore
+  <img src="public/logo-pokestore.png" alt="PokéStore">
 </h1>
 
 <p align="center">
+    <a href="https://app.netlify.com/sites/thepokestore/deploys">
+      <img alt="Netlify Status count" src="https://api.netlify.com/api/v1/badges/db3de0b9-2b7d-4d87-baaa-6e8384f8c59a/deploy-status">
+    </a>
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silvergutz/pokestore?color=%23007acc">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/silvergutz/pokestore">
     <a href="https://www.linkedin.com/in/tiagovergutz/">
