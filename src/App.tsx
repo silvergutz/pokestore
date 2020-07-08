@@ -8,9 +8,8 @@ import Page from './components/Page';
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <GlobalStyle />
-
       <Page />
+      <GlobalStyle />
     </ThemeProvider>
   );
 }
